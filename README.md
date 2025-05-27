@@ -105,10 +105,11 @@ This AI/ML-based **Incident Response Management (IRM)** system is a real-time cy
 
 ---
 
-### 🤖 6. Automated Incident Response
-- Auto-kills flagged processes
+### 🤖 6. Automated Incident Response and Reports
 - Verifies kill success
 ![image](https://github.com/user-attachments/assets/bd201124-80a3-4f6c-9668-c018df337bec)
+- Detailed Report on Email
+![image](https://github.com/user-attachments/assets/e67c14db-eb00-482a-8362-7044c080a456)
 
 
 ---
