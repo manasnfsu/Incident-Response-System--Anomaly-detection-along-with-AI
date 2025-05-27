@@ -1,4 +1,5 @@
 AI-Driven Cybersecurity Monitoring & Incident Response System (IRM) - Detailed Technical Breakdown
+
 1. System Overview
 AI/ML-based IRM (Incident Response Management) system is a real-time cybersecurity monitoring framework that collects, analyzes, and responds to threats across a Linux (Ubuntu) to Windows infrastructure. It replaces traditional rule-based SIEM (Security Information and Event Management) with behavioral anomaly detection, threat intelligence correlation, and automated response mechanisms.
 
@@ -17,7 +18,7 @@ Windows VM (Server)	Data Processing & AI Analysis	Python, SQLite, Scikit-learn
 Network Communication	Secure Data Transfer	TCP Sockets (Ports 5050 & 5400)
 Dashboard	Visualization & Alerts	Streamlit, Plotly, Pandas
 
-**2.2. Data Flow**
+2.2. Data Flow
 Ubuntu VM (Client-Side)
 
 Collects process metrics (CPU, memory, commands)
