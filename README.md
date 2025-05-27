@@ -167,5 +167,5 @@ This project is **production-ready** and designed for scalable **SOC-level deplo
 ---
 
 ## 📬 Contact
-For any collaboration, contributions, or questions, feel free to [connect on LinkedIn](https://linkedin.com/) or drop an issue in this repo.
+For any collaboration, contributions, or questions, feel free to [connect on LinkedIn](https://in.linkedin.com/in/manas-patil-68a5641a5) or drop an issue in this repo.
 
