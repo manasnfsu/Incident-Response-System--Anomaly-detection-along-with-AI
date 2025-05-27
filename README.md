@@ -51,6 +51,8 @@ This AI/ML-based **Incident Response Management (IRM)** system is a real-time cy
 
 ### 🔍 1. Real-Time Process Monitoring
 - **Collected:** PID, CPU%, MEM%, Command, User
+  ![image](https://github.com/user-attachments/assets/649f62e5-dc52-49c4-a5f0-0edd343990ce)
+
 - **Anomaly Detection:** Trained Isolation Forest flags unexpected behaviors
 - **Auto-Response:** Terminates high-CPU/memory processes (with whitelisting)
 
